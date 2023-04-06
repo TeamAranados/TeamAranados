@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi 👋
+We are the Team Arañados
 
+This is a website about Spiderman
+
+Enjoy it!
+
+ <img style="width: 70%;" src="https://media.giphy.com/media/nR4f2N4SOARyM/giphy.gif" alt="">
+ 
 <!--
 **TeamAranados/TeamAranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
