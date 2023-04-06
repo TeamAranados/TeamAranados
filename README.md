@@ -5,7 +5,7 @@ This is a website about Spiderman
 
 Enjoy it!
 
- <img style="width: 70%;" src="https://media.giphy.com/media/nR4f2N4SOARyM/giphy.gif" alt="">
+ <img style="width: 70%;" src="https://media.giphy.com/media/nR4f2N4SOARyM/giphy.gif" alt=""> <img style="width: 70%;" src="https://media.giphy.com/media/l46Cnk4ZRTlfeI32o/giphy.gif" alt=""> <img style="width: 70%;" src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" alt="">
  
 <!--
 **TeamAranados/TeamAranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
